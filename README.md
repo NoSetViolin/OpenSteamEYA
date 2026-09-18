@@ -11,7 +11,7 @@
 
 SteamEYA 用 EYA 令牌（一种 Steam 登录凭据）代替账号密码登录，不需要手动输入密码或处理令牌验证器。除了上号，它还能查询账号的优先分、CS2 等级和冷却状态，管理用过的账号，并清理创意工坊订阅。
 
-**👉 [前往 Releases 下载最新版本](https://github.com/hvh-software/OpenSteamEYA/releases)**
+**👉 [前往 Releases 下载最新版本](https://github.com/NoSetViolin/OpenSteamEYA/releases)**
 
 ## 界面截图
 
@@ -62,7 +62,7 @@ SteamEYA 用 EYA 令牌（一种 Steam 登录凭据）代替账号密码登录�
 
 ## 安装
 
-1. 在 [Releases](https://github.com/hvh-software/OpenSteamEYA/releases) 下载最新的 `SteamEYA-<版本>-win-x64-setup.exe`。
+1. 在 [Releases](https://github.com/NoSetViolin/OpenSteamEYA/releases) 下载最新的 `SteamEYA-<版本>-win-x64-setup.exe`。
 2. 双击安装包，按安装向导完成安装。
 3. 从开始菜单或桌面快捷方式启动 SteamEYA。
 
@@ -72,7 +72,7 @@ SteamEYA 用 EYA 令牌（一种 Steam 登录凭据）代替账号密码登录�
 
 **安装器启动失败怎么办？**
 
-请先检查是否被安全软件拦截，或前往 [Releases](https://github.com/hvh-software/OpenSteamEYA/releases) 重新下载最新安装包后重试。
+请先检查是否被安全软件拦截，或前往 [Releases](https://github.com/NoSetViolin/OpenSteamEYA/releases) 重新下载最新安装包后重试。
 
 **EYA 令牌是什么？**
 
